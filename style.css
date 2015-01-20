@@ -3,4 +3,19 @@ a:link {  font-family: Arial, Helvetica, sans-serif; color: #FFFFFF}
 a:visited {  font-family: Arial, Helvetica, sans-serif; color: #FFFFFF}
 a:hover {  font-family: Arial, Helvetica, sans-serif; color: #CCCCCC}
 a:active {  font-family: Arial, Helvetica, sans-serif; color: #CCCCCC}
-
+p {
+    color:white;
+    text-align: left;
+    }
+h1, h2, h3 {
+    color:white;
+}
+h1 {
+    font-size: 18px;
+}
+h2 {
+    font-size: 16px;
+}
+h3 {
+    font-size: 14px;
+}
