@@ -19,3 +19,10 @@ h2 {
 h3 {
     font-size: 14px;
 }
+ul.minutes {
+    margin:0;
+}
+ul.minutes li {
+    text-decoration: underline;
+    padding:4px 0;
+}

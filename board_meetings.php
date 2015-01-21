@@ -27,20 +27,19 @@ a:visited {  text-decoration: none}
             </td>
           <td width="560" valign="top" bordercolor="#666666"><table width="100%" border="1" cellpadding="3" cellspacing="3" bordercolor="#666666">
               <tr> 
-                <td height="245" colspan="2" valign="top"><p><font color="#FFFFFF"><strong><br>
-                    <font size="3">2014 Meeting Minutes</font></strong></font></p>
-                  <p><strong><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong><font color="#FFFFFF"><a href="minutes/new/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20%208.11.2014.pdf"><u>August 
-                    11</u></a><strong> </strong></font></p>
-                  <p><strong><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong><font color="#FFFFFF"><a href="minutes/new/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20Board%20Minutes%20-%206-9-2014.pdf" target="_blank"><u>June 
-                    9</u></a><strong> </strong></font></p>
-                  <p><strong><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong><font color="#FFFFFF"><a href="documents/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20Board%20Minutes%20-%205-12-2014.pdf" target="_blank"><u>May 
-                    12</u></a></font></p>
-                  <p><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="documents/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20Board%20Meeting%20%203-10-14.pdf" target="_blank"><u>March 
-                    10</u></a> </font></p>
-                  <p><font color="#FFFFFF"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="minutes/new/AHSFMA%2001-11-14%20annual%20member%20meeting.pdf" target="_blank"><u>January 
-                    11 - Annual Member Meeting</u></a></font></p>
-                  <p><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="minutes/new/AHSFMA%2001-11-14%20Organizational%20Board%20meeting.pdf" target="_blank"><u>January 
-                    11 - Organizational Board Meeting</u></a></font></p>
+                <td height="245" colspan="2" valign="top">
+                    <h2>2014 Meeting Minutes</h2>
+                    <ul class="minutes">
+                        <li><a href="/minutes/AHSFMA-minutes-2014-12-08.pdf">December 8</a></li>
+                        <li><a href="/minutes/AHSFMA-minutes-2014-10-13.pdf">October 13</a></li>
+                        <li><a href="minutes/new/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20%208.11.2014.pdf">August 11</a></li>
+                        <li><a href="minutes/new/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20Board%20Minutes%20-%206-9-2014.pdf" target="_blank">June 9</a></li>
+                        <li><a href="documents/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20Board%20Minutes%20-%205-12-2014.pdf" target="_blank">May 12</a></li>
+                        <li><a href="documents/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20Board%20Meeting%20%203-10-14.pdf" target="_blank">March 10</a></li>
+                        <li><a href="minutes/new/AHSFMA%2001-11-14%20Organizational%20Board%20meeting.pdf" target="_blank">January 11</a></li>
+                    </ul>
+                  
+                 
                   <p><font color="#FFFFFF"><strong><font size="3">2013 Budget 
                     </font></strong></font></p>
                   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="minutes/2013%20Budget.pdf" target="_blank"><u>Budget 

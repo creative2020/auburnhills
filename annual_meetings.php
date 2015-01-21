@@ -27,18 +27,18 @@ a:visited {  text-decoration: none}
             </td>
           <td width="560" valign="top" bordercolor="#666666"><table width="100%" border="1" cellpadding="3" cellspacing="3" bordercolor="#666666">
               <tr> 
-                <td height="245" colspan="2" valign="top"><p><font color="#FFFFFF"><strong>Annual 
-                    Meeting Minutes</strong></font></p>
-                  <blockquote> 
-                    <p><a href="minutes/AHSFMA%2001-05-13%20annual%20member%20meeting.pdf" target="_blank"><u>2013</u></a> 
-                      <font color="#FFFFFF" size="1">(pdf format)</font><font size="1">)</font></p>
-                    <p><font color="#FFFFFF"><a href="documents/2008%20Annual%20Meeting%20Minutes.pdf" target="_blank"><u>2008</u> 
-                      <font size="1">(pdf format)</font></a></font></p>
-                    <p><font color="#FFFFFF"><a href="documents/Annual%20Meeting%202007.pdf" target="_blank"><u>2007</u></a> 
-                      <font size="1">(pdf format)</font></font></p>
-                  </blockquote>
-                  <p>&nbsp;</p>
-                  <blockquote>&nbsp;</blockquote></td>
+                <td height="245" colspan="2" valign="top">
+                    <h2>Annual Meeting Minutes</h2>
+                   
+                      <ul class="minutes">
+                        <li><a href="minutes/new/AHSFMA%2001-11-14%20annual%20member%20meeting.pdf" target="_blank">2014</a></li>
+                          <li><a href="minutes/AHSFMA%2001-05-13%20annual%20member%20meeting.pdf" target="_blank">2013</a></li>
+                          <li><a href="documents/2008%20Annual%20Meeting%20Minutes.pdf" target="_blank">2008</a></li>
+                          <li><a href="documents/Annual%20Meeting%202007.pdf" target="_blank">2007</a></li>
+                          
+                    </ul>
+                    <p>Click year to download minutes in PDF format</p>
+                  
               </tr>
               <tr> 
                 <!-- footer -->  
