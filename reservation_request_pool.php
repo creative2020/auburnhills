@@ -1,13 +1,9 @@
 <html>
 <head>
-<title>Auburn Hills Master Swim Facility Association</title>
+<title>Auburn Hills Swimming Facility Master Association</title>
 
 <link rel="stylesheet" href="style.css">
-<style type="text/css">
-a:link {  text-decoration: none} 
-a:active {  text-decoration: none} 
-a:visited {  text-decoration: none}
-</style>
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
 
 <body bgcolor="#000000" leftmargin="0" topmargin="10" marginwidth="0" marginheight="0">
@@ -27,8 +23,7 @@ a:visited {  text-decoration: none}
             </td>
           <td width="560" valign="top" bordercolor="#666666"><table width="100%" border="1" cellpadding="3" cellspacing="3" bordercolor="#666666">
               <tr> 
-                <td height="40" colspan="2"><div align="center"><font color="#FFFFFF"><strong>Auburn 
-                    Hills Master Swim Facility Association</strong></font></div></td>
+                <td height="40" colspan="2"><div align="center"><font color="#FFFFFF"><strong>Auburn Hills Swimming Facility Master Association</strong></font></div></td>
               </tr>
               <tr> 
                 <td height="146" colspan="2" valign="top">
@@ -40,10 +35,9 @@ a:visited {  text-decoration: none}
                   </td>
               </tr>
               <tr> 
-                <td width="48%" height="20"><font color="#CCCCCC" size="1">&copy; 
-                  Auburn Hills Master Swim Facility Association</font></td>
-                <td width="52%"><div align="right"><a href="http://visionsmm.com/" target="_blank"><font color="#CCCCCC" size="1">Website 
-                    Designed by Visions Multimedia</font></a></div></td>
+                <!-- footer -->  
+		  		  <?php include './includes/footer.tpl'; ?>
+            <!-- footer END-->
               </tr>
             </table></td>
         </tr>
