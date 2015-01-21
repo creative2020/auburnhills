@@ -61,10 +61,13 @@ a:visited {  text-decoration: none}
           <td height="173"><div align="center"><img src="assets/pic_Meadows1.jpg" width="400" height="209"></div></td>
         </tr>
         <tr> 
-          <td height="42" valign="top"><div align="center"><font color="#FFFFFF"><strong>The 
+          <td height="42" valign="top"><div align="center" style="color:white;"><strong>The 
               Meadows<br>
-              </strong>14801 Valley Hi<strong><br>
-              </strong>Clubhouse occupancy – 80</br>Pool available for private party Saturday 5p-10p</font></div></td>
+              </strong>14801 Valley Hi<br>
+              Clubhouse occupancy - 80</br>Pool available for private party Saturday 5p-10p</div></td>
+        </tr>
+<tr> 
+          <td height="42" valign="top"><div align="center" style="color:white;"></div></td>
         </tr>
       </table></td>
   </tr>
