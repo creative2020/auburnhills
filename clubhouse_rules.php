@@ -29,7 +29,7 @@
 
 <p>1.	The Legends and Meadows Clubhouses are available to all AHSFMA (Auburn Hills Swimming Facility Master Association) members for private parties on any day or evening (except those holidays designated below), provided that it does not interfere with the normal operations of the Clubhouse. The member must be in good standing (i.e. all dues and assessments are current) at the time in which the reservation is made and at the time of the event for which the clubhouse is reserved.</p> 
 
-<p>2.	Reservation forms Clubhouse and pool availability are accessible on the AHSFMA’s web site: <strong>www.auburnhillspools.com.</strong> To reserve the Clubhouse or Pool, complete the required information on the form and click “submit” when finished. Reservations are approved on a first-come, first-served basis and notification of approval will be via e-mail.</p>
+<p>2.	Reservation forms Clubhouse and pool availability are accessible on the AHSFMA's web site: <strong>www.auburnhillspools.com.</strong> To reserve the Clubhouse or Pool, complete the required information on the form and click "submit" when finished. Reservations are approved on a first-come, first-served basis and notification of approval will be via e-mail.</p>
 
 <p>3.	The Clubhouse and Pool Reservation Calendar will be maintained by the Clubhouse Manager and updated on a regular basis as a reservation is received and confirmed. Reservations will not be confirmed until a $100 deposit and any required multi-use fee is received.  The deposit and all other fees must be received within 7 days of reservation request or the request will be cancelled without further notice.</p>
 
@@ -41,13 +41,13 @@
 
 <p>7.	The Clubhouse cannot be reserved for private functions on the following holidays: Memorial Day, July 4, or Labor Day.</p>
 
-                    <p>8.	Reservations for the Clubhouse <strong>do not</strong> include the pool or pool area, unless reserved on a separate pool reservation form. Legend’s and Meadow’s pool may be reserved with the Clubhouse only on Saturday evening between 5:00pm & 10:00pm, with an additional charge.  See section 5 for detail of charges. (If pool is not reserved; members may only bring up to (5) guests to the pool)</p>
+                    <p>8.	Reservations for the Clubhouse <strong>do not</strong> include the pool or pool area, unless reserved on a separate pool reservation form. Legend's and Meadow's pool may be reserved with the Clubhouse only on Saturday evening between 5:00pm & 10:00pm, with an additional charge.  See section 5 for detail of charges. (If pool is not reserved; members may only bring up to (5) guests to the pool)</p>
 
-<p>9.	The member who reserves the Clubhouse assumes full responsibility for the conduct of their guests and must be in attendance at all times during the event for which the Clubhouse was reserved. The member reserving the Clubhouse is responsible and liable for any damage done to the Clubhouse including any damage caused by party décor.</p>  
+<p>9.	The member who reserves the Clubhouse assumes full responsibility for the conduct of their guests and must be in attendance at all times during the event for which the Clubhouse was reserved. The member reserving the Clubhouse is responsible and liable for any damage done to the Clubhouse including any damage caused by party decor.</p>  
 
 <p>10.	Noise must be kept within the confines of the facility. No speakers or other electronic sound equipment may be placed outside the facility. The volume of all music must be kept to a minimum. Fireworks are prohibited. Complaints by the residence within the vicinity of the Clubhouse may result in termination of the event. Any occurrence of activities, which result in such termination, shall be deemed to be a breach of the rules by the member and a $100.00 fee will be assessed.</p>
  
-<p>11.	NO TAPE MAY BE PLACED ON THE CEILING OR WALLS OF THE CLUBHOUSE AND NO PICTURES OR DECORATIONS MAY BE HUNG WITHIN THE FACILITIES, UNLESS MEMBER RECEIVED ADVANCE AUTHORIZATION FROM THE ASSOCIATION’S MANAGER. NOTHING IS TO BE ATTACHED TO THE FANS (NO BALLOONS).  A BREACH OF THESE CONDITIONS BY THE RESIDENT WILL RESULT IN THE FORFEIT OF THE DEPOSIT.</p>
+<p>11.	NO TAPE MAY BE PLACED ON THE CEILING OR WALLS OF THE CLUBHOUSE AND NO PICTURES OR DECORATIONS MAY BE HUNG WITHIN THE FACILITIES, UNLESS MEMBER RECEIVED ADVANCE AUTHORIZATION FROM THE ASSOCIATION'S MANAGER. NOTHING IS TO BE ATTACHED TO THE FANS (NO BALLOONS).  A BREACH OF THESE CONDITIONS BY THE RESIDENT WILL RESULT IN THE FORFEIT OF THE DEPOSIT.</p>
 
 <p>12.	Appropriate attire is required and wet bathing suits are prohibited inside the Clubhouse.</p>
 

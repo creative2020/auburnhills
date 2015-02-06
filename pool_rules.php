@@ -40,7 +40,7 @@ a:visited {  text-decoration: none}
 
 <p>All members of the AHSFMA should be able to use the pool and clubhouse facilities in a safe and enjoyable manner. To clarify the existing pool rules and regulations, the following actions were adopted and approved by the AHSFMA Board of Directors.</p>
 
-<p>1. There will be no lifeguard on duty. Therefore, persons using the pool and pool area do so at their own risk. <strong>Wichita City Codes requires that “children under the age of 16 must be accompanied by an adult (18 years of age, parent or guardian)”.</strong> Failure to comply with this rule will result in immediate suspension of pool access for 15 days.</p>
+<p>1. There will be no lifeguard on duty. Therefore, persons using the pool and pool area do so at their own risk. <strong>Wichita City Codes requires that "children under the age of 16 must be accompanied by an adult (18 years of age, parent or guardian)".</strong> Failure to comply with this rule will result in immediate suspension of pool access for 15 days.</p>
 
 <p>2. The Auburn Hills Swimming Facilities Master Association pools are PRIVATE and reserved for the use of members and their guests only. </p>
 
@@ -54,7 +54,7 @@ a:visited {  text-decoration: none}
 
 <p>7. Proper swimming attire is required (no cut-off jeans, etc.)</p>
 
-<p>8. Loud music, running, rough play, splashing outside pool, cannonball jumping, standing on or jumping from shoulders, towel flipping, dunking, foul language, or “crying wolf” will not be tolerated.</p>
+<p>8. Loud music, running, rough play, splashing outside pool, cannonball jumping, standing on or jumping from shoulders, towel flipping, dunking, foul language, or "crying wolf" will not be tolerated.</p>
 
 <p>9. Eating, drinking, or gum chewing is not permitted while in the water.  No towels allowed in the water.</p>
 
@@ -86,7 +86,7 @@ a:visited {  text-decoration: none}
 
 <p>23. The pool privileges of any member whose pool dues or other assessments are delinquent may have their pool privileges suspended.</p>
 
-<p>24. Pool Key activation will occur once a week during pool season on Friday morning prior to 9:00am.  To allow entry on Friday and afterward, any member’s account must be paid in full by 3:00p.m. on Thursday.  There are no exceptions to this policy and no temporary badges will be issued.</p>
+<p>24. Pool Key activation will occur once a week during pool season on Friday morning prior to 9:00am.  To allow entry on Friday and afterward, any member's account must be paid in full by 3:00p.m. on Thursday.  There are no exceptions to this policy and no temporary badges will be issued.</p>
 
 <h2>POOL RULES ENFORCEMENT</h2>
 
@@ -105,7 +105,7 @@ a:visited {  text-decoration: none}
 
                     <p>Any homeowner who continues to use the pool or clubhouse facilities after their pool or clubhouse privileges have been suspended by the Board of Directors will be subject to a $500 fine assessed to the homeowner by the Auburn Hills Swimming Facilities Master Association, as well as any and all necessary legal cost to enforce the suspension and fine.</p>
 
-                    <h3>If you are threatened, feel in danger or witness vandalism - CALL 911. Record the person’s description, vehicle type & tag number. </h3>
+                    <h3>If you are threatened, feel in danger or witness vandalism - CALL 911. Record the person's description, vehicle type & tag number. </h3>
 
                   </div>
                   </td>
