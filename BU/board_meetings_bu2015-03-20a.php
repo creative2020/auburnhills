@@ -30,7 +30,7 @@ a:visited {  text-decoration: none}
                 <td height="245" colspan="2" valign="top">
                     <h2>2015 Meeting Minutes</h2>
                     <ul class="minutes">
-                        <li><a href="/minutes/AHSFMA-minutes-2015-1-17.pdf">January 17</a></li>
+                        <li></li>
                     </ul>
                     
                     
