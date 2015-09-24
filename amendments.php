@@ -41,6 +41,8 @@ a:visited {  text-decoration: none}
                     Amendment 4</u></a></font></p>
                   <p><font color="#FFFFFF"><a href="documents/pool_amendment_5.pdf"><u>Pool 
                     Amendment 5</u></a></font></p>
+                    <p><font color="#FFFFFF"><a href="/documents/AHSFMALotMap-Exhibit_A.pdf"><u>AHSFMA Lot Map-Declaration</u></a></font></p>
+                    <p><font color="#FFFFFF"><a href="documents/2015-01-20_ConsentAdoptionofSwimmingFacilityCov.pdf"><u>CONSENT TO AND ADOPTION OF COVENANTS</u></a></font></p>
                   <p><font color="#FFFFFF"><a href="minutes/By%20Laws.pdf" target="_blank"><u>By-Laws</u></a></font></p>
                   <p><font color="#FFFFFF"><a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank"><img src="assets/gra_adobe.gif" width="88" height="31" border="0" align="right"></a>Adobe 
                     Acrobat is required to view these forms. <br>

@@ -1,7 +1,6 @@
 <html>
 <head>
 <title>Auburn Hills Swimming Facility Master Association</title>
-
 <link rel="stylesheet" href="style.css">
 <style type="text/css">
 a:link {  text-decoration: none} 

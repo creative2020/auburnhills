@@ -31,6 +31,15 @@ a:visited {  text-decoration: none}
                     <h2>2015 Meeting Minutes</h2>
                     <ul class="minutes">
                         <li><a href="/minutes/AHSFMA-minutes-2015-1-17.pdf">January 17</a></li>
+                        <li>
+                            <a href="/documents/SecondAHSFMABoardMinutes-2015-03-09-draftsf.pdf">March 9</a>
+                            <ul>
+                                <li><a href="/documents/2015-01-20_ConsentAdoptionofSwimmingFacilityCov.pdf">Consent to and Adoption of Covenants</a></li>
+                                <li><a href="/documents/AHSFMALotMap-Exhibit_A.pdf">Exhibit A</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/minutes/AHSFMA-minutes-2015-05-11.pdf">May 11</a></li>
+                        <li><a href="/minutes/AHSFMA-minutes-2015-06-08.pdf">June 8</a></li>
                     </ul>
                     
                     
@@ -53,7 +62,7 @@ a:visited {  text-decoration: none}
                   <p><strong><font color="#FFFFFF" size="3">2013 Meeting Minutes</font></strong></p>
                   <p><a href="minutes/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20-%2012.9.13.pdf" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>December 
                     9</u></a> <a href="minutes/8-12-13%20Pool%20Minutes.pdf" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;</p>
-                  <p><a href="minutes/Emergency%20(AHSFMA)Board%20Meeting%2010-1-2013.pdf" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>October 
+                  <p><a href="minutes/Emergency%20AHSFMA%20Board%20Meeting%2010-1-2013.pdf" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>October 
                     1</u></a> </p>
                   <p><a href="minutes/8-12-13%20Pool%20Minutes.pdf" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="minutes/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%20%209-9-2013.pdf" target="_blank"><u>September 
                     9</u></a> </p>
@@ -65,7 +74,7 @@ a:visited {  text-decoration: none}
                     13</u></a></p>
                   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="minutes/Auburn%20Hills%20Swimming%20Facility%20Master%20Association%203-11-2013.pdf" target="_blank"><u>March 
                     11</u></a></p>
-                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="minutes/AHSFMA_Board_Meeting_Minutes_02-11-13%5B1%5D.pdf" target="_blank"><u>February 
+                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="minutes/AHSFMA_Board_Meeting_Minutes_02-11-13.pdf" target="_blank"><u>February 
                     11</u></a></p>
                   <p><font color="#FFFFFF" size="3"><strong>2012 Meeting Minutes</strong></font></p>
                   <blockquote> 

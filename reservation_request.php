@@ -3,7 +3,11 @@
 <title>Auburn Hills Swimming Facility Master Association</title>
 
 <link rel="stylesheet" href="style.css">
-
+<style type="text/css">
+a:link {  text-decoration: none} 
+a:active {  text-decoration: none} 
+a:visited {  text-decoration: none}
+</style>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
 
 <body bgcolor="#000000" leftmargin="0" topmargin="10" marginwidth="0" marginheight="0">

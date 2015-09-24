@@ -1,2 +1,0 @@
-[05-Jan-2015 12:19:09 America/Chicago] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 7680 bytes) in /home/two020cr/public_html/auburnhillspools.com/tester/loader-wizard.php on line 367
-[08-Jan-2015 11:31:51 America/Chicago] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 7680 bytes) in /home/two020cr/public_html/auburnhillspools.com/tester/loader-wizard.php on line 378

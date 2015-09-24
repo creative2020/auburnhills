@@ -1,0 +1,36 @@
+application: auburn-hills
+version: 1
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: index.php
+
+#
+# php files.
+#
+
+- url: /(.+\.php)$
+  script: \1
+
+- url: /(.*\.tpl)$
+  static_files: \1
+  upload: .*\.tpl$
+  application_readable: true
+
+#
+# Static files.
+#
+
+- url: /(.*\.(html|htm|css|js))$
+  static_files: \1
+  upload: .*\.(html|htm|css|js)$
+
+- url: /(.*\.(gif|png|jpg|psd))$
+  static_files: \1
+  upload: .*\.(gif|png|jpg|psd)$
+
+- url: /(.*\.(pdf|txt))$
+  static_files: \1
+  upload: .*\.(pdf|txt)$

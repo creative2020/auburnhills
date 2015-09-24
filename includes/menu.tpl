@@ -1,7 +1,7 @@
 <!-- #Main menu -->
 <table width="89%" border="1" align="center" cellpadding="1" cellspacing="2" bordercolor="b9945f">
   <tr> 
-    <td height="23"><font color="#FFFFFF"><a href="index.php">Home</a></font></td>
+    <td height="23"><font color="#FFFFFF"><a href=".">Home</a></font></td>
   </tr>
   <tr> 
     <td height="4"><font color="#FFFFFF"><a href="toc.php">Calendar</a></font></td>
