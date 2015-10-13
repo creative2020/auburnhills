@@ -30,7 +30,10 @@ a:visited {  text-decoration: none}
                 <td height="245" colspan="2" valign="top">
                     <h2>2015 Meeting Minutes</h2>
                     <ul class="minutes">
-                        <li><a href="/minutes/AHSFMA-minutes-2015-1-17.pdf">January 17</a></li>
+                        <li><a href="/minutes/AHSFMA-minutes-2015-08-10.pdf">August 10</a></li>
+                        <li><a href="/minutes/AHSFMA-minutes-2015-06-08.pdf">June 8</a></li>
+                        <li><a href="/minutes/AHSFMA-minutes-2015-05-11.pdf">May 11</a></li>
+
                         <li>
                             <a href="/documents/SecondAHSFMABoardMinutes-2015-03-09-draftsf.pdf">March 9</a>
                             <ul>
@@ -38,8 +41,8 @@ a:visited {  text-decoration: none}
                                 <li><a href="/documents/AHSFMALotMap-Exhibit_A.pdf">Exhibit A</a></li>
                             </ul>
                         </li>
-                        <li><a href="/minutes/AHSFMA-minutes-2015-05-11.pdf">May 11</a></li>
-                        <li><a href="/minutes/AHSFMA-minutes-2015-06-08.pdf">June 8</a></li>
+
+                        <li><a href="/minutes/AHSFMA-minutes-2015-01-17.pdf">January 17</a></li>
                     </ul>
                     
                     
