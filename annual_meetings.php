@@ -31,10 +31,10 @@ a:visited {  text-decoration: none}
                     <h2>Annual Meeting Minutes</h2>
                    
                       <ul class="minutes">
-                        <li><a href="minutes/new/AHSFMA%2001-11-14%20annual%20member%20meeting.pdf" target="_blank">2014</a></li>
-                          <li><a href="minutes/AHSFMA%2001-05-13%20annual%20member%20meeting.pdf" target="_blank">2013</a></li>
-                          <li><a href="documents/2008%20Annual%20Meeting%20Minutes.pdf" target="_blank">2008</a></li>
-                          <li><a href="documents/Annual%20Meeting%202007.pdf" target="_blank">2007</a></li>
+                        <li><a href="minutes/new/AHSFMA_01-11-14_annual_member_meeting.pdf" target="_blank">2014</a></li>
+                          <li><a href="minutes/AHSFMA_01-05-13_annual_member_meeting.pdf" target="_blank">2013</a></li>
+                          <li><a href="documents/2008_Annual_Meeting_Minutes.pdf" target="_blank">2008</a></li>
+                          <li><a href="documents/Annual_Meeting_2007.pdf" target="_blank">2007</a></li>
                           
                     </ul>
                     <p>Click year to download minutes in PDF format</p>
